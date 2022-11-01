@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; configuration.title = "Sepeti Onayla"; ObjectID = "1tS-rC-J00"; */
+"1tS-rC-J00.configuration.title" = "Confirm Cart";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1tS-rC-J00"; */
+"1tS-rC-J00.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Yemek İsmi"; ObjectID = "2q4-wT-2dK"; */
+"2q4-wT-2dK.text" = "Food Name";
+
+/* Class = "UIButton"; configuration.title = "Çıkış Yap"; ObjectID = "355-KP-MYS"; */
+"355-KP-MYS.configuration.title" = "Sign Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "355-KP-MYS"; */
+"355-KP-MYS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Yildiz"; ObjectID = "4pz-ZW-PZb"; */
+"4pz-ZW-PZb.text" = "Star";
+
+/* Class = "UIButton"; configuration.title = "Kaydol"; ObjectID = "4sw-ht-SQO"; */
+"4sw-ht-SQO.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4sw-ht-SQO"; */
+"4sw-ht-SQO.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "5fo-bx-Lvr"; */
+"5fo-bx-Lvr.title" = "Profile";
+
+/* Class = "UILabel"; text = "Yemek Fiyat"; ObjectID = "6eo-Ms-CSd"; */
+"6eo-Ms-CSd.text" = "Food Price";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "8Cl-fs-cfn"; */
+"8Cl-fs-cfn.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Yildiz"; ObjectID = "Lg0-w4-ZlK"; */
+"Lg0-w4-ZlK.text" = "Star";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QlO-Qu-YMn"; */
+"QlO-Qu-YMn.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Kullanıcı Adı"; ObjectID = "SeP-NZ-BMm"; */
+"SeP-NZ-BMm.placeholder" = "User Name";
+
+/* Class = "UILabel"; text = "Fiyat"; ObjectID = "Sj3-n5-MDH"; */
+"Sj3-n5-MDH.text" = "Price";
+
+/* Class = "UILabel"; text = "YemekAdet"; ObjectID = "Sj6-jJ-K53"; */
+"Sj6-jJ-K53.text" = "FoodPiece";
+
+/* Class = "UINavigationItem"; title = "Sepet"; ObjectID = "TJE-mE-mvP"; */
+"TJE-mE-mvP.title" = "Cart";
+
+/* Class = "UILabel"; text = "Yemek İsmi"; ObjectID = "TXe-5Y-ggh"; */
+"TXe-5Y-ggh.text" = "Food Name";
+
+/* Class = "UINavigationItem"; title = "Yemek Detay"; ObjectID = "W2p-eU-D9S"; */
+"W2p-eU-D9S.title" = "Food Detail";
+
+/* Class = "UINavigationItem"; title = "Yemekler"; ObjectID = "aay-9F-YF8"; */
+"aay-9F-YF8.title" = "Foods";
+
+/* Class = "UITextField"; placeholder = "Adet"; ObjectID = "dFt-Qf-3b0"; */
+"dFt-Qf-3b0.placeholder" = "Pieces";
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "fQF-Oo-Lyk"; */
+"fQF-Oo-Lyk.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Yemek İsmi"; ObjectID = "fvk-RT-Rbq"; */
+"fvk-RT-Rbq.text" = "Food Name";
+
+/* Class = "UITabBarItem"; title = "Yemekler"; ObjectID = "jAA-Fh-3HH"; */
+"jAA-Fh-3HH.title" = "Foods";
+
+/* Class = "UILabel"; text = "Yildiz"; ObjectID = "oIx-AM-Q35"; */
+"oIx-AM-Q35.text" = "Star";
+
+/* Class = "UILabel"; text = "Fiyat"; ObjectID = "pOe-9r-lAM"; */
+"pOe-9r-lAM.text" = "Price";
+
+/* Class = "UIButton"; configuration.title = "Oturum Aç"; ObjectID = "v40-3N-n3e"; */
+"v40-3N-n3e.configuration.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "v40-3N-n3e"; */
+"v40-3N-n3e.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sepete Ekle"; ObjectID = "xo1-Le-sF5"; */
+"xo1-Le-sF5.configuration.title" = "Add To Cart";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xo1-Le-sF5"; */
+"xo1-Le-sF5.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "SEPET"; ObjectID = "zFB-uY-D2q"; */
+"zFB-uY-D2q.title" = "CART";
