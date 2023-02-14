@@ -51,7 +51,6 @@ class AuthVC: UIViewController {
         alert.addAction(okButton)
         self.present(alert, animated: true)
     }
-    
 }
 
 extension AuthVC : PresenterToViewAuthProtocol {

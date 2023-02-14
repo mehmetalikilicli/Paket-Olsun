@@ -40,25 +40,20 @@ class YemekDetayVC: UIViewController {
         }
     }
     
-    
     @IBAction func sepeteEkleButton(_ sender: Any) {
         if Int(yemekDetayTextField.text!) != nil {
             yemekDetayPresenterNesnesi?.ekle(yemek_adi: (yemek?.yemek_adi)!, yemek_resim_adi: (yemek?.yemek_resim_adi)!, yemek_fiyat: Int((yemek?.yemek_fiyat)!)!, yemek_siparis_adet:Int(yemekDetayTextField.text!)!, kullanici_adi: Components.Degiskenler.kullanici_adi)
-            makeAlert(title: "Onaylandı", message: "\(yemek?.yemek_adi) sepetinize eklendi (fiyat: \(Int(yemekDetayTextField.text!)! * Int(((yemek?.yemek_fiyat)!))!) ₺)")
+            makeAlert(title: "Onaylandı", message: "\(yemek!.yemek_adi!) sepetinize eklendi (fiyat: \(Int(yemekDetayTextField.text!)! * Int(((yemek?.yemek_fiyat)!))!) ₺)")
         } else {
             makeAlert(title: "Hata", message: "Lutfen Sayi Giriniz")
         }
-            
-            
-        
+          
     }
-    
     func makeAlert(title: String, message: String) {
         let alert = UIAlertController(title: title, message: message, preferredStyle: UIAlertController.Style.alert)
         let okButton = UIAlertAction(title: "Tamam", style: UIAlertAction.Style.default)
         alert.addAction(okButton)
         self.present(alert, animated: true)
     }
-    
 }
  

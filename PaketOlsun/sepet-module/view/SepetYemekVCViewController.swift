@@ -58,10 +58,7 @@ extension SepetYemekVCViewController :PresenterToViewSepetProtocol {
         }
     }
     
-    
 }
-
-
 
 extension SepetYemekVCViewController : UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

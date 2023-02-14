@@ -130,6 +130,7 @@
 		174D92BF28FEC66C00356F0D = {
 			isa = PBXGroup;
 			children = (
+				174D92EA28FEC79000356F0D /* entity */,
 				174D92CA28FEC66C00356F0D /* PaketOlsun */,
 				174D92C928FEC66C00356F0D /* Products */,
 				17A9F5F0290E85390053E9E2 /* Frameworks */,
@@ -155,13 +156,13 @@
 				17C12BE3290DDD2500E9BCE4 /* auth-module */,
 				17B1163929095258009319FD /* sepet-module */,
 				175831FA290048D800A306D5 /* yemekdetay-module */,
-				174D92EA28FEC79000356F0D /* entity */,
 				174D92E528FEC76400356F0D /* anasayfa-module */,
 				174D92D128FEC66C00356F0D /* Main.storyboard */,
 				174D92D428FEC66D00356F0D /* Assets.xcassets */,
 				174D92D628FEC66D00356F0D /* LaunchScreen.storyboard */,
 				174D92D928FEC66D00356F0D /* Info.plist */,
 				17C12BDE290DD3AF00E9BCE4 /* GoogleService-Info.plist */,
+				17870D9429100E0E00A468AE /* Fonts */,
 			);
 			path = PaketOlsun;
 			sourceTree = "<group>";
@@ -169,7 +170,6 @@
 		174D92E528FEC76400356F0D /* anasayfa-module */ = {
 			isa = PBXGroup;
 			children = (
-				17870D9429100E0E00A468AE /* Fonts */,
 				174D92E628FEC77000356F0D /* tableview */,
 				174D92E928FEC78800356F0D /* protocols */,
 				174D92EB28FEC7A000356F0D /* router */,

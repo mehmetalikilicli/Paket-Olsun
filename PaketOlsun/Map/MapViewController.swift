@@ -33,7 +33,6 @@ class MapViewController: UIViewController {
     }
    
 }
-
 extension MapViewController : CLLocationManagerDelegate {
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         let sonKonum = locations[locations.count - 1]
@@ -56,9 +55,6 @@ extension MapViewController : CLLocationManagerDelegate {
         haritaMap.addAnnotation(pin)
         
         haritaMap.showsUserLocation = true
-        
-        
-        
         
     }
 }
